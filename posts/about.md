@@ -1,4 +1,4 @@
-#about me
->2014/9/18
+#About Me
+>2014/10/15
 
-##When she awoke, the world was on fire.
+##独立思考，而非人云亦云。
