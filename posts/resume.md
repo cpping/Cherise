@@ -1,14 +1,14 @@
 # 个人信息
 
- - xxx/男/19xx 
- - Email：xxxx@163.com
+ - 张煜平//男/1991 
+ - Email：anyingxiaozi@gmail.com
  - 本科/xx大学计算机系 
  - 工作年限：4年
- - 技术博客：http://xx.github.io/blog
- - Github: http://github.com/xx
- - 期望职位：高级程序员，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：深圳
+ - 技术博客：http://cpping.github.io/blog
+ - Github: http://github.com/anyingxiao
+ - 期望职位：
+ - 期望薪资：
+ - 期望城市：
 
 ---
 
