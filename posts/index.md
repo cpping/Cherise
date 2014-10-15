@@ -1,30 +1,27 @@
-#遇见火星人
+#什么鬼？火星人
 > 火星人 好人 老鸨 再见表情
 
 
 ##[火星人简介 2014/10/15](index.html?resume)
 
 
-#技术
-+ [测试1](index.html?test)
-+ [测试2](index.html?vim-learn)
-+ [测试3](index.html?nano-proxy)
-+ [测试4](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
-+ [待迁移](index.html?vim-learn)
+#遭遇火星人
++ [初遇火星人](index.html?meetinbs)
++ [我不玩剑灵了](index.html?noplaybs)
++ [你是火星人](index.html?martian)
++ [你好low！你逼格高](index.html?low)
 
-#生活
+
+#[关于本站点]
++ [定制自己的博客？](index.html?buildblog)
++ [博客内容](index.html?content)
++ [练练手而已](index.html?practice)
+
 
 #链接
 
 - [Follow me on github](https://github.com/cpping)
 - [上传图片到github issues](https://github.com/gowithwind/gowithwind.github.io/issues)
-- [新的文章](https://github.com/gowithwind/gowithwind.github.io/new/master/blog)
+- [关于作者](index.html?about)
+- [致谢：gowithwind](https://github.com/gowithwind/gowithwind.github.io)
 
