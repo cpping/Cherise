@@ -12,7 +12,7 @@
 + [你好low！你逼格高](index.html?low)
 
 
-#[关于本站点]
+#关于本站点
 + [定制自己的博客？](index.html?buildblog)
 + [博客内容](index.html?content)
 + [练练手而已](index.html?practice)
@@ -21,7 +21,7 @@
 #链接
 
 - [Follow me on github](https://github.com/cpping)
-- [上传图片到github issues](https://github.com/gowithwind/gowithwind.github.io/issues)
 - [关于作者](index.html?about)
 - [致谢：gowithwind](https://github.com/gowithwind/gowithwind.github.io)
 
+#最后，祝火星人：身体健康，工作顺利！
