@@ -1,5 +1,5 @@
 #ºº ı
-+ [Monday](index.html?test1)
++ [Monday](index.html?test)
 + [Tuesday](index.html?vim-learn)
 + [Wednsday](index.html?nano-proxy)
 + [Thursday](index.html?vim-learn)
