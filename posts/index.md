@@ -18,6 +18,15 @@
 + [练练手而已](index.html?practice)
 
 
+# 约吗？(代发月抛广告，嘻嘻)
+以下均为本人知道的火星人的联系方式#_#!
+
++ [火星人的微博]（index.html?weibo）
++ [火星人的微信]（index.html?wechat）
++ [火星人的麻花]（index.html?qq）
++ [火星人的电话]（index.html?phone）
+
+
 #链接
 
 - [Follow me on github](https://github.com/cpping)
