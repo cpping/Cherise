@@ -6,7 +6,7 @@
 
 
 #技术
-+ [测试1](index.html?test1)
++ [测试1](index.html?test)
 + [测试2](index.html?vim-learn)
 + [测试3](index.html?nano-proxy)
 + [测试4](index.html?vim-learn)
